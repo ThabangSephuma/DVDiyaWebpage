@@ -1,2 +1,2 @@
 # DVDiya
-A webpage for a twitter bot.
+A webpage for the DVDiya twitter bot.
